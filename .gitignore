@@ -1,0 +1,7 @@
+node_modules/
+build/
+web/editor.js
+web/mermaid.min.js
+# local test documents
+web/*.md
+.DS_Store
